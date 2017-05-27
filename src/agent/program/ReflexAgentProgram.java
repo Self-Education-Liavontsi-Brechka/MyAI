@@ -8,10 +8,10 @@ import environment.state.DynamicEnvironmentState;
 
 import java.util.Set;
 
-public abstract class SimpleReflexAgentProgram implements AgentProgram {
+public abstract class ReflexAgentProgram implements AgentProgram {
     private Set<ConditionActionRule> rules;
 
-    public SimpleReflexAgentProgram() {
+    public ReflexAgentProgram() {
         init();
     }
 
