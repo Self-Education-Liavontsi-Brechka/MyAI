@@ -1,7 +1,7 @@
 package search.queue;
 
-import search.Node;
-import search.NodeExpander;
+import search.common.Node;
+import search.common.NodeExpander;
 
 public class TreeSearch extends QueueSearch {
     public TreeSearch() {

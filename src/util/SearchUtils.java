@@ -4,7 +4,7 @@ import common.action.Action;
 import common.action.NoOpAction;
 import problem.GoalTestFunction;
 import problem.Problem;
-import search.Node;
+import search.common.Node;
 
 import java.util.ArrayList;
 import java.util.Collections;

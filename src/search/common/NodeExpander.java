@@ -1,4 +1,4 @@
-package search;
+package search.common;
 
 import common.action.Action;
 import environment.state.EnvironmentState;

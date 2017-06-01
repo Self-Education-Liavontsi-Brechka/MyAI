@@ -2,8 +2,8 @@ package search.queue;
 
 import environment.state.EnvironmentState;
 import problem.Problem;
-import search.Node;
-import search.NodeExpander;
+import search.common.Node;
+import search.common.NodeExpander;
 
 import java.util.HashSet;
 import java.util.Queue;

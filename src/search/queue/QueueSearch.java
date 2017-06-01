@@ -1,9 +1,9 @@
 package search.queue;
 
 import problem.Problem;
-import search.Metrics;
-import search.Node;
-import search.NodeExpander;
+import search.common.Metrics;
+import search.common.Node;
+import search.common.NodeExpander;
 import util.CancelableThread;
 import util.SearchUtils;
 

@@ -1,4 +1,4 @@
-package search;
+package search.common;
 
 import java.util.Hashtable;
 import java.util.Set;
